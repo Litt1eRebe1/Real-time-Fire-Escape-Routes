@@ -39,6 +39,8 @@
 <p><i>From left to right: Pieter Braak, Xaio Jian Li, Kateryna Reva, Mathilda Bresler, Jason Louw</i></p>
 <ul>
     <li><b>Name: </b> Mathilda Anna Bresler</li>
+    <li><a href="https://drive.google.com/open?id=1bCwLsxItpME2UU_yPvfoacp5Xk8dUySd">View CV on google Drive</a></li>
+  
    <li><b>Student Number: </b>
         u16313382
    </li>
@@ -52,6 +54,7 @@
             <li>System intgration</li>
             <li>Planning and organizing</li>
             <li>Music</li>
+           <li>Languages: XML, JQuery, HTML & CSS, PHP, JavaScript, Java, 64-bit Assembly, Javascript, NodeJS, Mongo database management, SQL, C++</li>
         </ul>
     </li>
     <li><b>Work Experience: </b>
@@ -61,7 +64,8 @@
             <li>Private Computer science tutoring (Tutcoition) </li>
             <li>Private Math tutoring (Tutcoition) </li>
             <li>Website development and maintenance (IG Tutors)</li>
-            <li>
+          <li>Software engineering for Compiax </li>
+  
         </ul>
     </li>
   <li>
