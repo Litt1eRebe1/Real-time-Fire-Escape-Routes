@@ -44,6 +44,7 @@
    </li>
     <li><a href="https://drive.google.com/file/d/1bCwLsxItpME2UU_yPvfoacp5Xk8dUySd/view?usp=sharing">View CV on google Drive</a></li>
     <li><b>Position: </b>3rd Year BSc Computer Science student</li>
+  <li><b>Role in team: </b>Project manager/back-end developer</li>
     <li><b>Interests: </b>Artificial intelligence, Software engineering, Project management, reading, music, deepsea diving </li>
     <li><b>Skills</b>
         <ul>
